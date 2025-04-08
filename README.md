@@ -1,5 +1,4 @@
-# 👋 Hi I'm Pin a recent IT Master's graduate passionate about mobile development!
-
+# 👋 Hi I'm Pin 
 🎓 I recently completed my Master's in Information Technology and am actively seeking opportunities in Melbourne.
  I have hands-on experience building mobile and web applications, with a focus on creating responsive and user-friendly interfaces.
 

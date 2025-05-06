@@ -1,17 +1,19 @@
 # 👋 Hi I'm Pin 
 🎓 I recently completed my Master's in Information Technology and am actively seeking opportunities in Melbourne.
- I have hands-on experience building mobile and web applications, with a focus on creating responsive and user-friendly interfaces.
+ I have hands-on experience building mobile, web applications, full-stack development, Proficient in multiple 
+ programming languages including Python, Java,and Swift, Flutter framework. Eager to apply both technical and
+ collaborative skills in a junior mobile developer role.
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-- React, TypeScript, HTML/CSS
+- React (self-learning), TypeScript, HTML/CSS
 
 **Backend**  
-- Node.js, Python, Java
+- Python, Java
 
 **Mobile**  
-- Flutter (Android/iOS), SwiftUI, Dart
+- Flutter (Android/iOS), SwiftUI, React Native (self-learning)
 
 **Database & Infrastructure**  
 - MySQL, MongoDB
@@ -57,8 +59,6 @@
 I'm always open to new challenges and collaborations. If you're hiring or interested in working together, feel free to reach out!
 
 ✉️ PHTsai@outlook.com
-
-
 
 
 ---
